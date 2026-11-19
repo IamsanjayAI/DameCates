@@ -20,6 +20,14 @@ adding more informaiton here
 |-----------|----------|------|
 |  Sanjay   |  Mukati  |smukati@dxc.com|
 
+```mermaid
+graph TD;
+A--->B;
+A---C>;
+B--->D;
+C--->D;
+```
+
 
 
 
